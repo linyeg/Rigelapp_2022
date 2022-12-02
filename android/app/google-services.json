@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "32429475995",
+    "project_id": "mpii-rigelapp",
+    "storage_bucket": "mpii-rigelapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32429475995:android:5b0dab398662e08e88de3e",
+        "android_client_info": {
+          "package_name": "com.example.app_products_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32429475995-n0cdcfd5alla6e3reug1poctref1gttk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa92sTcRo0flQig6zz9EmpsOmTQ5sTa2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32429475995-n0cdcfd5alla6e3reug1poctref1gttk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "32429475995-674nkkh33860amtefski9ope96ee6n26.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rigelApplication"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32429475995:android:b107ae6f9262bdf688de3e",
+        "android_client_info": {
+          "package_name": "com.example.rigel_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32429475995-n0cdcfd5alla6e3reug1poctref1gttk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa92sTcRo0flQig6zz9EmpsOmTQ5sTa2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32429475995-n0cdcfd5alla6e3reug1poctref1gttk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "32429475995-674nkkh33860amtefski9ope96ee6n26.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rigelApplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
